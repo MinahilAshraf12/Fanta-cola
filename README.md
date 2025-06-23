@@ -1,2 +1,2 @@
 # Fanta-cola
-Animated website of fanta-cola
+Animated website of fanta-cola project
